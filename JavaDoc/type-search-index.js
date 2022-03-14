@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"hac","l":"BasicScrapper"},{"p":"hac","l":"Decorator"},{"p":"hac","l":"Globals"},{"p":"hac","l":"h1Titles"},{"p":"hac","l":"Images"},{"p":"hac","l":"Links"},{"p":"hac","l":"Main"},{"p":"hac","l":"Scrapper"},{"p":"hac","l":"ScrappersFactory"},{"p":"hac","l":"Validator"}];updateSearchResults();
