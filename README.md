@@ -41,5 +41,6 @@ Note that for test5, there is some link which generated for each user in this we
 </p>
 <h1>4. Assumptions</h1>
 <p>
-  I opened the file for append and closed it each time.
+  I opened the file for append and closed it each time.<br>
+  I accidentally used the java doc tool right to the project folder instead of creating a javadoc folder, so project folder is a bit messy, please ignore that and find the documentation in the JavaDoc folder
 </p>
